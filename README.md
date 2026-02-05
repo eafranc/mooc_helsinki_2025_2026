@@ -7,7 +7,7 @@ This repository contains my progress and solutions for programming courses provi
 ### 🐍 [Python Programming MOOC 2025](https://programming-25.mooc.fi/)
 - **Status:** Completed ✅
 - **Topics:** Basic syntax, logic, OOP, and advanced programming concepts.
-- **Tools:** Python 3.14, Pygame-CE [Test My Code (TMC)](https://tmc.mooc.fi/).
+- **Tools:** Python 3.14, Pygame-CE, [Test My Code (TMC)](https://tmc.mooc.fi/).
 
 ### 🏗️ [Data Structures and Algorithms](https://tira.mooc.fi/spring-2025/) (Spring 2026)
 - **Status:** Planned 📅
