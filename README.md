@@ -4,7 +4,7 @@ This repository contains my progress and solutions for programming courses provi
 
 ## 📚 Included Courses
 
-### 🐍 <a href="https://programming-25.mooc.fi/" target="_blank">Python Programming MOOC 2025</a>
+### 🐍 [Python Programming MOOC 2025](https://programming-25.mooc.fi/)
 - **Courses**:
   1) Introduction to Programming (Parts 1 - 7)
   2) Advanced Course in Programming (Parts 8 - 14)
